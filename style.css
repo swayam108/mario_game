@@ -1,0 +1,47 @@
+.heading{
+    width: 100%;
+    text-align: left;
+    outline: none;
+}
+.heading h3{
+    display: inline;
+    outline: none;
+}
+.int{
+    float: right;
+    border: 1px solid whitesmoke;
+    outline: none !important;
+}
+.big_img{
+    width: 100%;
+    outline: none;
+}
+#start , #status{
+    font-size: 21px;
+    outline: none;
+}
+.credit{
+    background-color: rgb(221, 192, 211);
+    line-height: 2;
+    margin: 0px;
+}
+.modal-dialog{
+    width: 90%;
+}
+.inst_img{
+    width: 45%;
+    display: inline-block;
+}
+video{
+    text-align: center;
+    margin-top: 50px;
+    margin-right: 10px;
+}
+#game_Console{
+    background: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    height: 450px;
+    width: 900px;
+    text-align: center;
+}
